@@ -26,7 +26,7 @@ automatically recognize the programming language, see image below.<br>
     
 ## Compiling Hello world code
    
-<br> We’re going to use the “gcc” compiler to compile our code, the CLI command to be used is the following.
+<br> We’re going to use the “<b>gcc</b>” compiler to compile our code, the CLI command to be used is the following.
 <br>
     
 ```C
