@@ -4,7 +4,7 @@
 <img src="/images/hello-world.c.png" alt="Hello World C"><br>
 <br>
 ## Copy the code
-<br>
+
 ```C
 #include <stdio.h>
     main()
