@@ -18,3 +18,5 @@
 
 <br> If you use Atom as your preferred text editor and save the file as “hello.c” then Atom will<br>
 automatically recognize the programming language, see image below.<br>
+<br>
+<img src="/images/hello-world.c-code.png"><br>
