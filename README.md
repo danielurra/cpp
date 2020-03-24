@@ -48,6 +48,11 @@ ls -la a.out
 <p align="center">
 <img src="/images/hello-world.c-compile-code-using-gcc-output-file-a.out.png" align="center"><br>
 <p>
+    
+## Executing the output file
+
+Now that we have the executable file we can run our “Hello World!” program using “./” to specify <br>
+that our file is located in the current directory.
 
 
 
