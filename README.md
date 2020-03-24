@@ -63,4 +63,8 @@ that our file is located in the current directory.
 
 ## Choosing the output file name
 Leaving the name selection to the compiler is not really a good idea, what we can do instead is to use <br>
-the “-o” argument at the compiling step to be able to choose the name of the output file, see image below.
+the “-o” argument at the compiling step to be able to choose the name of the output file, see image below.<br>
+
+<p align="center">
+<img src="/images/hello-world.c-code-name-argument.png" align="center"><br>
+<p>
