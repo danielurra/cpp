@@ -57,6 +57,8 @@ that our file is located in the current directory.
 ```C
 ./a.out
 ```
-
+<p align="center">
+<img src="/images/hello-world.c-compile-code-using-gcc-execute.png" align="center"><br>
+<p>
 
 
