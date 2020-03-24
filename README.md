@@ -42,5 +42,11 @@ automatically recognize the programming language, see image below.<br>
 Using the “gcc” compiler without any argument will leave the output file without a name,<br>
 the compiler will create a new file called “a.out”, see image below.
 
+```C
+    ls -la a.out
+```
+
+
+
 
 
