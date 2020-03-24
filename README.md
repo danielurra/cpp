@@ -36,7 +36,11 @@ automatically recognize the programming language, see image below.<br>
 <p align="center">
 <img src="/images/hello-world.c-compile-code-using-gcc.png" align="center"><br>
 <p>
+    
+## Output file
 
+Using the “gcc” compiler without any argument will leave the output file without a name,<br>
+the compiler will create a new file called “a.out”, see image below.
 
 
 
