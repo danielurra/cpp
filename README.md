@@ -45,7 +45,9 @@ the compiler will create a new file called “a.out”, see image below.
 ```C
 ls -la a.out
 ```
-
+<p align="center">
+<img src="/images/hello-world.c-compile-code-using-gcc-output-file-a.out.png" align="center"><br>
+<p>
 
 
 
