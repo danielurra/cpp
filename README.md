@@ -30,7 +30,7 @@ automatically recognize the programming language, see image below.<br>
 <br>
     
 ```C
-    gcc hello.c
+gcc hello.c
 ```
 <br>
 <p align="center">
@@ -43,7 +43,7 @@ Using the “gcc” compiler without any argument will leave the output file wit
 the compiler will create a new file called “a.out”, see image below.
 
 ```C
-    ls -la a.out
+ls -la a.out
 ```
 
 
