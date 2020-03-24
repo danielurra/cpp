@@ -14,9 +14,9 @@
 ```
 <br>
 ## Hello World code in “C” language
-<br>
-<br>If you use Atom as your preferred text editor and save the file as “hello.c” then Atom will<br>
-<br>automatically recognize the programming language, see image below.<br>
+
+<br> If you use Atom as your preferred text editor and save the file as “hello.c” then Atom will<br>
+automatically recognize the programming language, see image below.<br>
 <br>
 <br>
 <br>
