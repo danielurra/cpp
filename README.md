@@ -22,3 +22,7 @@ automatically recognize the programming language, see image below.<br>
 <p align="center">
 <img src="/images/hello-world.c-code.png" align="center"><br>
 <p>
+<br>
+## Compiling Hello world code
+   
+We’re going to use the “gcc” compiler to compile our code, the CLI command to be used is the following.
