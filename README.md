@@ -54,6 +54,9 @@ ls -la a.out
 Now that we have the executable file we can run our “Hello World!” program using “./” to specify <br>
 that our file is located in the current directory.
 
+```C
+./a.out
+```
 
 
 
